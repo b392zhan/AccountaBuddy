@@ -10,7 +10,7 @@ Group accountability provides this motivation that a friend group needs to achie
 We harness the power of accountability with your buddies to encourage everyone to stay committed. 
 
 ## Video/Screenshots
-Link to video: [Demo](demo.mp4)
+Link to video: found under demo.mp4
 
 ## Getting Started
 Our project can be installed with the latest APK release file listed below. 
@@ -27,22 +27,10 @@ This can be done through BlueStacks on your computer device, or other similar to
 * Mario Su, wjsu@uwaterloo.ca
 * Max Chu, m36chu@uwaterloo.ca
 
-## Documentation
-* Project proposal: https://git.uwaterloo.ca/wjsu/accountabuddy/-/wikis/Project-Proposal
-* Design proposal: https://git.uwaterloo.ca/wjsu/accountabuddy/-/wikis/Design-Proposal
-* User documentation: https://git.uwaterloo.ca/wjsu/accountabuddy/-/wikis/User-Guide
-* Design diagrams: https://git.uwaterloo.ca/wjsu/accountabuddy/-/wikis/Design-Diagrams
-
 ## Project Information
-* Team contract: https://git.uwaterloo.ca/wjsu/accountabuddy/-/wikis/Team-Contract
-* Meeting minutes: https://git.uwaterloo.ca/wjsu/accountabuddy/-/tree/main/Meeting%20Minutes?ref_type=heads 
+* Design Proposal
+* Meeting Minutes
 
 ## Releases
 
-* Version 0.1 Release: https://git.uwaterloo.ca/wjsu/accountabuddy/-/wikis/Version-0.1-Release-Notes
-
-* Version 0.2 Release: https://git.uwaterloo.ca/wjsu/accountabuddy/-/wikis/Version-0.2-Release-Notes
-* Version 0.2 APK file: https://git.uwaterloo.ca/wjsu/accountabuddy/-/blob/main/Releases/Release-0.2.apk
-
-* Version 0.3 Release: https://git.uwaterloo.ca/wjsu/accountabuddy/-/wikis/Version-0.3-Release-Notes
-* Version 0.3 APK file: https://git.uwaterloo.ca/wjsu/accountabuddy/-/blob/main/Releases/Release-0.3.apk
+* Release files found under releases folder
